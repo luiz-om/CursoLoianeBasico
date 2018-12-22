@@ -1,7 +1,7 @@
 # Curso de Git
 
 
-Loiane Grone
+Loiane Groner
 
 
 teste do comando diff
