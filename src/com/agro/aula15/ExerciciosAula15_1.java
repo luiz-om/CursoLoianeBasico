@@ -17,9 +17,9 @@ public class ExerciciosAula15_1 {
 		int numero2 = scan.nextInt();
 		
 		if (numero1 > numero2) {
-			System.out.println("O primeiro numero digitado é maior que o segudo.");
+			System.out.println("O primeiro numero digitado Ã© maior que o segudo.");
 		}else {
-			System.out.println("O segundo numero digitado é maior que o primeiro.");
+			System.out.println("O segundo numero digitado Ã© maior que o primeiro.");
 		}
 	}
 
