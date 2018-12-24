@@ -24,10 +24,10 @@ public class ExerciciosAula15_11 {
 		
 		valorAumento = (salario / 100) * percentual;
 		double salarioAjustado = (salario + valorAumento);
-		System.out.println("Seu salario é R$ " + salario);
+		System.out.println("Seu salario Ã© R$ " + salario);
 		System.out.println("Valor do aumento R$ " + valorAumento);
 		System.out.println("Porcentagem de aumento do salario " + percentual + "%");
-		System.out.println("O valor do seu salario com o reajuste é R$ " + salarioAjustado);
+		System.out.println("O valor do seu salario com o reajuste Ã© R$ " + salarioAjustado);
 
 	}
 }
