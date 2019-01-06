@@ -7,7 +7,7 @@ public class SwitchCase {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 
-		int i = 1; // conunt ou cont
+		int i = 1; // count ou cont
 		int max = 10;
 
 		System.out.println("Contando até " + max);
