@@ -22,7 +22,7 @@ public class ContaCorrente {
 	}
 
 	void mostrarSaldo() {
-		System.out.println("Seu saldo Ã©: " + saldo);
+		System.out.println("Seu saldo é: " + saldo);
 
 	}
 }
